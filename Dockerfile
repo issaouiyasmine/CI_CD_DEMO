@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM node:25
 
 WORKDIR /CI_CD_Demo
 
